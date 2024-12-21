@@ -1,0 +1,8 @@
+[package]
+name = "buidl-kit"
+version = "0.1.0"
+edition = "2021"
+description = "Buidl Kit is a toolkit for building decentralized applications on the major blockchain networks."
+license = "MIT"
+
+[dependencies]
